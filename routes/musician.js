@@ -12,7 +12,7 @@ router.get('/health', (req, res) => {
 
 
 router.get('/hi', (req, res) => {
-  res.status('200').send("Hi all,Hope u are enjoying the music");
+  res.status('200').send("Hi all,Hope u are enjoying the music from web");
 });
 
 
